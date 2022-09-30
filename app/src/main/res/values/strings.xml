@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">JoBit</string>
+    <string name="mis_anuncios">Mis Anuncios</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="button">Button</string>
+    <string name="actualizar_anuncio">Actualizar Anuncio</string>
+    <string name="ingresar_titulo_del_anuncio">Ingresar titulo del anuncio</string>
+    <string name="ingresar_la_descripci_n_del_anuncio">Ingresar la descripción del anuncio</string>
+    <string name="salario">Salario</string>
+    <string name="cargo">Cargo</string>
+    <string name="hint">hint</string>
+    <string name="este_anucio_ser_visible">Este anucio será visible</string>
+    <string name="editarAd">EDITAR</string>
+    <string name="cerrar">CERRAR</string>
 </resources>
